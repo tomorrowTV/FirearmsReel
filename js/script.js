@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function () {
             tranAudio.addEventListener('complete', function () {
                 // End the game when tranAudio finishes
                 // You can add your logic here to handle the end of the game
-                console.log('Game over!');
+                console.log('Daniel McClure  mammaliand@gmail.com');
                 gameOver = true;
 
                 // Display "Game Over" message on the screen

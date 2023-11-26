@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 // Display "Game Over" message on the screen
                 const gameOverMessage = document.createElement('div');
                 gameOverMessage.textContent = 'thanks for watching...';
-                gameOverMessage.style.fontSize = '75px'; // Adjust styling as needed
+                gameOverMessage.style.fontSize = '70px'; // Adjust styling as needed
                 gameOverMessage.style.fontFamily = 'Futura, sans-serif'; // Adjust font family as needed
                 gameOverMessage.style.fontWeight = 'bold'; // Adjust font weight as needed
                 gameOverMessage.style.color = '#eab5ac'; // Adjust font color as needed
